@@ -18,4 +18,3 @@ At the end of this coding challange, you will be able to;
 ## Problem Statement
 - Write a function that generates an array ranging from 1 to 49( inclusive ) and shift random six elements to the beginning of the array. Delete other elements(7 and beyond) of the array and sort the remaining numbers. This function should return these 6 numbers in a sorted ascending array.
 - You are expected to define only one array for purpose of the project, using spare array is not permitted. 
-<p style="text-align: center;">😊 Happy Coding ✍</p>
